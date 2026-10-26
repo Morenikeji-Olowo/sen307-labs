@@ -1,3 +1,6 @@
+
+NAME: MORENIKEJI DAVID OLOWO
+MARIC: VUG-SEN-24-11362
 # Lab 2: Database Design and Normalization
 
 ## Part 1: Entities and Attributes
